@@ -1,2 +1,2 @@
 # Blackjack
-Simulation of the game in python
+Simulation of the game in python. Eventually working to derive the basic strategy table, hopefully. 
