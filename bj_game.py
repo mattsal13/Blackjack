@@ -1,4 +1,4 @@
-from bjfunctions import *
+from blackjack_2 import *
 
 num_decks = 4
 
