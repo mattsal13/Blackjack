@@ -1,4 +1,4 @@
-from blackjack_2 import *
+from blackjack2 import *
 
 num_decks = 4
 
